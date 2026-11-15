@@ -1,0 +1,5 @@
+com.example.facebookcleaner
+id webView
+layout activity_main
+string app_name
+style Theme_FacebookCleaner

@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Clean_IG"
 include(":app")
+include(":facebook-cleaner")
